@@ -1,0 +1,6 @@
+# General
+.idea
+.DS_Store
+log
+bin
+go.sum
